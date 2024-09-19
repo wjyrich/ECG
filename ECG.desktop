@@ -1,0 +1,11 @@
+[Desktop Entry]
+Categories=Accessibility;Qt;Utility;
+Exec=ECG
+Name=ECG
+Name[zh_CN]=ECG
+Icon=ECG
+StartupNotify=false
+Terminal=false
+Type=Application
+GenericName=ECG
+Version=1.0
